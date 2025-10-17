@@ -111,14 +111,12 @@ int main(void)
 
 
 ## OUTPUT  :
- 
- <img width="1577" height="840" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/1e74dfcc-85ee-47ef-81bd-18ab0d88dd95" />
+## LED ON:
+ <img width="681" height="446" alt="317121254-ecaba52d-1d4a-4119-8447-64b93e8e1969" src="https://github.com/user-attachments/assets/691abd37-093b-492f-a4e1-3e03c00cc08f" />
 
- <img width="1524" height="825" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/0a9f94df-3904-483e-80a8-6ad0e5893621" />
+## LED OFF:
 
- <img width="1503" height="818" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/bb9636b6-7089-45d9-b5f3-17ef22209ded" />
-
-
+<img width="700" height="456" alt="317121310-3237a9e9-de68-4c34-9f81-521bbbff98e1" src="https://github.com/user-attachments/assets/94d95102-4c27-4a36-ad96-78b818737efd" />
 
 ## Result :
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
